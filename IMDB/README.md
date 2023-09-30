@@ -1,9 +1,3 @@
-web scrapping top 100 popular movie titles including casts, directors, actors, and image from imdb
-
-!make sure geckodriver are installed and are part of virtual environment
-
-Author : 0StevenH0
-
-please note this script may detect duplicate data and output may be less than expected
-please note that output from the day you run the script and another day may different
-because imdb1s algorithm keep changing their popular movie list
+# IMDB web scrapping
+<p> web scrappinng from IMDB website and get top-n most popular movies </p>
+<p> project date : 24/09/2022 </p>
